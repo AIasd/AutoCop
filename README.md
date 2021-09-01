@@ -10,11 +10,15 @@ This repo consists of code accompanying "Learning-Based Grammar Fuzzing for Auto
 * Apollo 6.0
 
 # Directory Structure
+```
 ~(home folder)
 ├── Documents
 │   ├── self-driving-cars (created by the user manually)
 │   │   ├── AutoCop
 │   │   ├── carla_0994_no_rss
+```
+Note: one can create link for these folders at these paths if one cannot put them in these paths.
+
 
 # CARLA + LBC controller / pid controllers
 ## Found Traffic Violation Demos
